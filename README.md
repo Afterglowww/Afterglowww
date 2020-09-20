@@ -32,4 +32,4 @@
 
 [![example](https://www.worldcubeassociation.org/assets/wca_logo-bc89f32537437455803c7c9bcc2691bbddbcdf8558282aaea1d9386d7a3cd802.svg)](https://www.worldcubeassociation.org/persons/2017ZENG14)
 
-![test](https://cubingchina.com/f/images/logo.png)
+[![test](https://cubingchina.com/f/images/logo.png)](https://cubingchina.com/results/person/2017ZENG14)
