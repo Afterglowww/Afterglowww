@@ -27,6 +27,9 @@
     ETM:54
 
     ETPS:7.51
-    
+
+## Here's about my personal information in WCA
+
 ![example](https://www.worldcubeassociation.org/assets/wca_logo-bc89f32537437455803c7c9bcc2691bbddbcdf8558282aaea1d9386d7a3cd802.svg)
+
 ![test](https://cubingchina.com/f/images/logo.png)
