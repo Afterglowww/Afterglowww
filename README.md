@@ -28,4 +28,4 @@
 
     ETPS:7.51
     
-![example](https://img.shields.io/twitter/url?style=social)
+![example](https://www.worldcubeassociation.org/assets/wca_logo-bc89f32537437455803c7c9bcc2691bbddbcdf8558282aaea1d9386d7a3cd802.svg)
