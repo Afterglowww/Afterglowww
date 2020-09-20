@@ -20,4 +20,9 @@
 
 ## Here's about my personal information in WCA
 
-[![WCA](https://www.worldcubeassociation.org/assets/wca_logo-bc89f32537437455803c7c9bcc2691bbddbcdf8558282aaea1d9386d7a3cd802.svg)](https://www.worldcubeassociation.org/persons/2017ZENG14)  [![test](https://cubingchina.com/f/images/logo.png)](https://cubingchina.com/results/person/2017ZENG14)
+[![WCA](https://www.worldcubeassociation.org/assets/wca_logo-bc89f32537437455803c7c9bcc2691bbddbcdf8558282aaea1d9386d7a3cd802.svg)](https://www.worldcubeassociation.org/persons/2017ZENG14)
+
+<a href="https://www.worldcubeassociation.org/assets/wca_logo-bc89f32537437455803c7c9bcc2691bbddbcdf8558282aaea1d9386d7a3cd802.svg"><img src="https://img.shields.io/badge/weibo-WCA-ff5722.svg" /></a>
+
+
+[![test](https://cubingchina.com/f/images/logo.png)](https://cubingchina.com/results/person/2017ZENG14)
