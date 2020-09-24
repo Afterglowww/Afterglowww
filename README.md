@@ -1,4 +1,4 @@
-## Hi.This is Anteayer,is my nickname. In fact, it is a Spanish word. 👋
+## Hi.This is MixedDrinks,is my nickname. 👋
 
 ### 🌱 I’m currently learning Python 
 
