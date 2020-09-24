@@ -3,7 +3,7 @@
 ### 🌱 I’m currently learning Python 
 
 
-[![MixedDrinks's github stats](https://github-readme-stats.vercel.app/api?username=Anteayer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MixedDrinks's github stats](https://github-readme-stats.vercel.app/api?username=MixedDrinks&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meanwhile, I'm also a Rubik's Cube lover, My best 3x3x3 Score is 7.18s
 
