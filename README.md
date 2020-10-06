@@ -1,9 +1,9 @@
-## Hi.This is MixedDrinks,is my nickname. 👋
+## Hi.This is Roux,is my nickname. 👋
 
-### 🌱 I’m currently learning Python 
+### 🌱 I’m currently learning Python and Java 
 
 
-[![MixedDrinks's github stats](https://github-readme-stats.vercel.app/api?username=MixedDrinks&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![RouxNotFound's github stats](https://github-readme-stats.vercel.app/api?username=RouxNotFound&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Meanwhile, I'm also a Rubik's Cube lover, My best 3x3x3 Score is 7.18s
 
