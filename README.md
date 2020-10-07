@@ -2,10 +2,10 @@
 
 ### 🌱 I’m currently learning Python and Java 
 
+![0djgg0.gif](https://s1.ax1x.com/2020/10/07/0djgg0.gif)
 
 [![RouxNotFound's github stats](https://github-readme-stats.vercel.app/api?username=RouxNotFound&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![avatar](https://imgchr.com/i/0djgg0)
 
 ### Meanwhile, I'm also a Rubik's Cube lover, My best 3x3x3 Score is 7.18s
 
