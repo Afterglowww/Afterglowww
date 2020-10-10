@@ -1,6 +1,6 @@
 ## Hi.This is Roux,is my nickname 👋
 
-### 🌱 I'm currently learning Android development
+### 🌱 I'm currently learning Android development.
 
 ![0djgg0.gif](https://s1.ax1x.com/2020/10/07/0djgg0.gif)
 
