@@ -1,4 +1,4 @@
-## Hi.This is Shiftech,is my nickname 👋
+## Hi.This is Afterglow,is my nickname 👋
 
 ### 🌱 I'm currently learning Android development.
 
