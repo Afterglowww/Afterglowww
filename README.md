@@ -2,6 +2,8 @@
 
 ## I make music :)
 
+#### I am passionate about researching what interests me and learning new knowledge, so if you have ideas that interest you, please feel free to communicate with me
+
 ### Skills:
 
 <img src='https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge' height='50'/> <img src='https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white' height='50'/>
