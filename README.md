@@ -2,7 +2,7 @@
 
 ## I make music :)
 
-#### I am passionate about researching what interests me and learning new knowledge, so if you have ideas that interest you, please feel free to communicate with me
+#### I'm passionate about researching what interests me and learning new knowledge, so if you have ideas that interest you, please feel free to communicate with me
 
 ### Skills:
 
