@@ -1,7 +1,5 @@
 
 
-<img src="123.png" align="right">
-
 ## Hi.This is Nthily,is my nickname 👋
 
 ### Study:
