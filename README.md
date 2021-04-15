@@ -1,4 +1,4 @@
-<img src="123.jpg" align="right">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nthily)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi.This is Nthily,is my nickname 👋
 
@@ -16,6 +16,5 @@
 
 [![Nthilyw's github stats](https://github-readme-stats.vercel.app/api?username=Nthily&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nthily)](https://github.com/anuraghazra/github-readme-stats)
 
 
