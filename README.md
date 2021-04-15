@@ -15,4 +15,4 @@
 
 [![Nthilyw's github stats](https://github-readme-stats.vercel.app/api?username=Nthily&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nthily)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nthily&hide=css)](https://github.com/anuraghazra/github-readme-stats)
