@@ -1,4 +1,5 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nthily)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Nthily" align = "center">
 
 ## Hi.This is Nthily,is my nickname 👋
 
