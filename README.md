@@ -1,7 +1,7 @@
 
 ### Hi! This is ZingerBurger
 
-## GPG Public Key: C32B DAEF 081D 2D5A
+### GPG Public Key: C32B DAEF 081D 2D5A
 
 * Chinese/Español
 
