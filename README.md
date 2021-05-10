@@ -3,7 +3,7 @@
 
 ## GPG Public Key: C32B DAEF 081D 2D5A
 
-1. Chinese/Español
+**1. Chinese/Español**
 
 
 ### Study:
