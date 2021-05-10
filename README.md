@@ -2,7 +2,7 @@
 ### Hi! This is ZingerBurger
 * Chinese / Español / English
 * Kotlin Newbie
-* Always write something fun
+* Always write something fun，~~经常整活~~
 * ~~是个沙雕~~
 
 ### GPG Public Key: C32B DAEF 081D 2D5A
