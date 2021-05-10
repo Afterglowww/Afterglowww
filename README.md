@@ -1,10 +1,11 @@
 
 ### Hi! This is ZingerBurger
+* Chinese / Español / English
+* Kotlin Newbie
+* Always write something fun
+* ~~是个沙雕~~
 
 ### GPG Public Key: C32B DAEF 081D 2D5A
-
-* Chinese/Español
-
 
 ### Study:
 
