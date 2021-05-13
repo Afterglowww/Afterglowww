@@ -3,7 +3,7 @@
 * Chinese / Español / English
 * Kotlin Newbie
 * Always write something fun，~~经常整活~~
-* 是个憨憨
+* 是个憨憨/沙雕
 * 打音游/是个魔友
 * 一直想学习信息安全，但是太菜没有入门
 * [偶偶写写歌](https://music.163.com/#/artist?id=34753951)
