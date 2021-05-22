@@ -8,7 +8,7 @@
 * 一直想学习信息安全，但是太菜没有入门
 * [偶偶写写歌](https://music.163.com/#/artist?id=34753951)
 
-### GPG Public Key: C32B DAEF 081D 2D5A
+### GPG Public Key: 6612 E81F 4BCF D666
 
 ### Study:
 
