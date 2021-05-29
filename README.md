@@ -1,6 +1,6 @@
 
 ### Hi! This is ZingerBurger
-* Puedo hablar un poquito español
+* Estoy aprendiendo español, si quiere enseñarme español, dígame
 * 打点音游/玩魔方
 * [偶偶写写歌](https://music.163.com/#/artist?id=34753951)
 
