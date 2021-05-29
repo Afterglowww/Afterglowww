@@ -4,8 +4,6 @@
 * 打点音游/玩魔方
 * [偶偶写写歌](https://music.163.com/#/artist?id=34753951)
 
-人生有太多遗憾，有太多想见的人
-
 ### GPG Public Key: 6612 E81F 4BCF D666
 
 ### Study:
