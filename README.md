@@ -1,6 +1,4 @@
 
-![Metrics](https://github.com/Nthily/Nthily/blob/test/github-metrics.svg)
-
 ### Hi! This is Nthily, o puedes llamarme Anteayer.
 
 ### GPG Public Key: 6612 E81F 4BCF D666
@@ -14,3 +12,5 @@
 
 ### Social:
 [<img src="https://ftp.bmp.ovh/imgs/2021/03/1433b6cb0c66f2e0.png" height='50'/>](https://steamcommunity.com/id/rouxzed/)
+
+![Metrics](https://github.com/Nthily/Nthily/blob/test/github-metrics.svg)
