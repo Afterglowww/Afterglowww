@@ -14,6 +14,3 @@
 
 ### Social:
 [<img src="https://ftp.bmp.ovh/imgs/2021/03/1433b6cb0c66f2e0.png" height='50'/>](https://steamcommunity.com/id/rouxzed/)
-
-[![Nthilyw's github stats](https://github-readme-stats.vercel.app/api?username=Nthily&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
